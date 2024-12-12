@@ -32,6 +32,7 @@ __pycache__/
 
 *.gif
 !figs/*.gif
+!demo.gif
 
 
 commands*
