@@ -2,7 +2,7 @@
 
 This repo implements several situations that easily set up Monte Carlo Tree Search (MCTS) algorithms.
 
-<img src="/Users/fernando/Library/CloudStorage/OneDrive-HKUSTConnect/mcts_pitfall/layout.png" alt="layout" style="zoom:15%;" />
+![layout](./layout.png)
 
 > The sphere with a number is the moving robot. The square is her goal. A orange diamond is designed as a trap.
 
@@ -70,6 +70,9 @@ You will get the following results,
 
 2. The visualized tree search process
 
-   <img src="/Users/fernando/Library/CloudStorage/OneDrive-HKUSTConnect/mcts_pitfall/tree_visualization.pdf" alt="layout" style="zoom:15%;" />
+   ![layout](./tree_visualization.pdf)
+
 
 3. A video showing the eventual pathfinding
+
+   ![demo](./results/demo.gif)
