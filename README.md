@@ -70,7 +70,7 @@ You will get the following results,
 
 2. The visualized tree search process
 
-   ![layout](./tree_visualization.pdf)
+   ![layout](./tree_visualization.png)
 
 
 3. A video showing the eventual pathfinding
